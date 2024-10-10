@@ -1,0 +1,7 @@
+---
+- ASP.NET Core Document Repository Cloned;
+- Local Repository Initialized;
+- Remote Repository Initialized;
+- Repo Branch (0) Initialized;
+- Pushed ALL to ORIGIN;
+---
