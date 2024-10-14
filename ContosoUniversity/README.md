@@ -304,5 +304,41 @@
 
 ---
 
+<h3 align="center">BRANCH 4</h3>
+
+<h4 align="center">VERSION 4.0</h4>
+
+- Repo Branch (4) Initialized;
+- RPwEFCiA.NC (P4) Complete;
+  - MC: Initial Migration;
+- Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>Program.cs</td>
+        <td>[N/A]=>[4.0]</td>
+        <td>=[ProjectContosoUniversity\Program.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[3.0]=>[4.0]</td>
+        <td>=[ContosoUniversity\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 ---
 
