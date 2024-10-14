@@ -95,6 +95,7 @@
 
 - Repo Branch (1) Initialized;
 - Razor Pages with Entity Framework Core in ASP.NET Core = Part 1 Complete;
+  - MC: REF: RPwEFCiA.NC (P#)
 - Pushed ALL to ORIGIN;
 
 ---
@@ -123,7 +124,7 @@
 <h4 align="center">VERSION 2.0</h4>
 
 - Repo Branch (2) Initialized;
-- Razor Pages with Entity Framework Core in ASP.NET Core = Part 2 Complete;
+- RPwEFCiA.NC (P2) Complete;
 - Pushed ALL to ORIGIN;
 
 ---
@@ -177,6 +178,126 @@
         <td>Edit.cshtml.cs</td>
         <td>[N/A]=>[2.0]</td>
         <td>=[Students\Edit.cshtml.cs]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h3 align="center">BRANCH 3</h3>
+
+<h4 align="center">VERSION 3.0</h4>
+
+- Repo Branch (3) Initialized;
+- RPwEFCiA.NC (P3) Complete;
+- Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>SchoolViewModels\</td>
+        <td>[N/A]</td>
+        <td>=[ProjectContosoUniversity\Models\SchoolViewModels\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EnrollmentDateGroup.cs</td>
+        <td>[3]</td>
+        <td>=[Models\SchoolViewModels\EnrollmentDateGroup.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>About.cshtml</td>
+        <td>[3]</td>
+        <td>=[ProjectContosoUniversity\Pages\About.cshtml]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>About.cshtml.cs</td>
+        <td>[3]</td>
+        <td>=[ProjectContosoUniversity\Pages\About.cshtml.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>PaginatedList.cs</td>
+        <td>[3]</td>
+        <td>=[ProjectContosoUniversity\PaginatedList.cs]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>EnrollmentDateGroup.cs</td>
+        <td>[3]=>[3.0]</td>
+        <td>=[Models\SchoolViewModels\EnrollmentDateGroup.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Index.cshtml</td>
+        <td>[N/A]=>[3.0]</td>
+        <td>=[Pages\Students\Index.cshtml]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Index.cshtml.cs</td>
+        <td>[N/A]=>[3.0]</td>
+        <td>=[Pages\Students\Index.cshtml.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>About.cshtml</td>
+        <td>[3]=>[3.0]</td>
+        <td>=[ProjectContosoUniversity\Pages\About.cshtml]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>About.cshtml.cs</td>
+        <td>[3]=>[3.0]</td>
+        <td>=[ProjectContosoUniversity\Pages\About.cshtml.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>appsettings.json</td>
+        <td>[N/A]=>[3.0]</td>
+        <td>=[ProjectContosoUniversity\appsettings.json]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>PaginatedList.cs</td>
+        <td>[3]=>[3.0]</td>
+        <td>=[ProjectContosoUniversity\PaginatedList.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectContosoUniversity.csproj</td>
+        <td>[N/A]=>[3.0]</td>
+        <td>=[ProjectContosoUniversity\ProjectContosoUniversity.csproj]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[2.0]=>[3.0]</td>
+        <td>=[ContosoUniversity\README.md]</td>
         <td></td>
     </tr>
 </table>
