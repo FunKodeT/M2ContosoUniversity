@@ -340,5 +340,119 @@
 
 ---
 
+<h3 align="center">BRANCH 5</h3>
+
+<h4 align="center">VERSION 5.0</h4>
+
+- Repo Branch (5) Initialized;
+- RPwEFCiA.NC (P5) Complete;
+- Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>Department.cs</td>
+        <td>[5]</td>
+        <td>=[ProjectContosoUniversity\Models\Department.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Instructor.cs</td>
+        <td>[5]</td>
+        <td>=[ProjectContosoUniversity\Models\Instructor.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>OfficeAssignment.cs</td>
+        <td>[5]</td>
+        <td>=[ProjectContosoUniversity\Models\OfficeAssignment.cs]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>DbInitializer.cs</td>
+        <td>[N/A]=>[5.0]</td>
+        <td>=[ProjectContosoUniversity\Data\DbInitializer.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>StudentContext.cs</td>
+        <td>[N/A]=>[5.0]</td>
+        <td>=[ProjectContosoUniversity\Data\StudentContext.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Course.cs</td>
+        <td>[N/A]=>[5.0]</td>
+        <td>=[ProjectContosoUniversity\Models\Course.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Department.cs</td>
+        <td>[5]=>[5.0]</td>
+        <td>=[ProjectContosoUniversity\Models\Department.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Enrollment.cs</td>
+        <td>[N/A]=>[5.0]</td>
+        <td>=[ProjectContosoUniversity\Models\Enrollment.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Instructor.cs</td>
+        <td>[5]=>[5.0]</td>
+        <td>=[ProjectContosoUniversity\Models\Instructor.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>OfficeAssignment.cs</td>
+        <td>[5]=>[5.0]</td>
+        <td>=[ProjectContosoUniversity\Models\OfficeAssignment.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Student.cs</td>
+        <td>[N/A]=>[5.0]</td>
+        <td>=[ProjectContosoUniversity\Models\Student.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Delete.cshtml.cs</td>
+        <td>[2.0]=>[5.0]</td>
+        <td>=[Students\Delete.cshtml.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[4.0]=>[5.0]</td>
+        <td>=[ContosoUniversity\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 ---
 

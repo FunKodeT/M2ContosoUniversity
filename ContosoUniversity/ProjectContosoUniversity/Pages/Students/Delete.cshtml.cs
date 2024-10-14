@@ -84,8 +84,7 @@ namespace ProjectContosoUniversity.Pages.Students
                 _logger.LogError(ex, ErrorMessage);
                 return RedirectToAction("./Delete", new {id, saveChangesError = true});
             }
-
-            return RedirectToPage("./Index");
+            //return RedirectToPage("./Index");
         }
     }
 }
