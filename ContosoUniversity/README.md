@@ -667,5 +667,98 @@
 
 ---
 
+<h3 align="center">BRANCH 8</h3>
+
+<h4 align="center">VERSION 8.0</h4>
+
+- Repo Branch (8) Initialized;
+- RPwEFCiA.NC (P8) Complete;
+- Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>Departments\&=</td>
+        <td>[N/A]</td>
+        <td>=[ProjectContosoUniversity\Pages\Departments\&+]</td>
+        <td>
+            =[
+                -   [Create.cshtml(8)]
+                -   [Create.cshtml.cs(8)]
+                -   [Delete.cshtml(8)]
+                -   [Delete.cshtml.cs(8)]
+                -   [Details.cshtml(8)]
+                -   [Details.cshtml.cs(8)]
+                -   [Edit.cshtml(8)]
+                -   [Edit.cshtml.cs(8)]
+                -   [Index.cshtml(8)]
+                -   [Index.cshtml.cs(8)]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>Utility.cs</td>
+        <td>[8]</td>
+        <td>=[ContosoUniversity\ProjectContosoUniversity\Utility.cs]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>Department.cs</td>
+        <td>[5.0]=>[8.0]</td>
+        <td>=[ProjectContosoUniversity\Models\Department.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Departments\+</td>
+        <td>[*]=>[8.0]</td>
+        <td>=[ProjectContosoUniversity\Pages\Departments\+]</td>
+        <td>
+            =[
+                -   [Delete.cshtml]
+                -   [Delete.cshtml.cs]
+                -   [Edit.cshtml]
+                -   [Edit.cshtml.cs]
+                -   [Index.cshtml]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>Utility.cs</td>
+        <td>[8]=>[8.0]</td>
+        <td>=[ContosoUniversity\ProjectContosoUniversity\Utility.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[7.0]=>[8.0]</td>
+        <td>=[ContosoUniversity\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 ---
 

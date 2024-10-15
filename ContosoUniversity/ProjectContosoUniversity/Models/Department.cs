@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
+//using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace ProjectContosoUniversity.Models
 {
@@ -25,6 +25,9 @@ namespace ProjectContosoUniversity.Models
         public DateTime StartDate { get; set; }
 
         public int? InstructorID { get; set; }
+
+        [Timestamp]
+        public byte[] ConcurrencyToken { get; set; }
 
         public Instructor Administrator { get; set; }
 
