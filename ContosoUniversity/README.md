@@ -89,6 +89,33 @@
 
 ---
 
+<h4 align="center">VERSION 0.1</h4>
+
+- RPwEFCiA.NC Complete;
+- Merged (8) into (0);
+- Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[8.0]=>[0.1]</td>
+        <td>=[ContosoUniversity\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 <h3 align="center">BRANCH 1</h3>
 
 <h4 align="center">VERSION 1.0</h4>
@@ -761,4 +788,3 @@
 ---
 
 ---
-
