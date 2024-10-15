@@ -454,5 +454,119 @@
 
 ---
 
+<h3 align="center">BRANCH 6</h3>
+
+<h4 align="center">VERSION 6.0</h4>
+
+- Repo Branch (6) Initialized;
+- RPwEFCiA.NC (P6) Complete;
+- Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>InstructorIndexData.cs</td>
+        <td>[6]</td>
+        <td>=[Models\SchoolViewModels\InstructorIndexData.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Courses\</td>
+        <td>[N/A]</td>
+        <td>=[ProjectContosoUniversity\Pages\Courses\]</td>
+        <td>
+            =[
+                -   [Create.cshtml(6)]
+                -   [Create.cshtml.cs(6)]
+                -   [Delete.cshtml(6)]
+                -   [Delete.cshtml.cs(6)]
+                -   [Details.cshtml(6)]
+                -   [Details.cshtml.cs(6)]
+                -   [Edit.cshtml(6)]
+                -   [Edit.cshtml.cs(6)]
+                -   [Index.cshtml(6)]
+                -   [Index.cshtml.cs(6)]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>Instructors\</td>
+        <td>[N/A]</td>
+        <td>=[ProjectContosoUniversity\Pages\Instructors\]</td>
+        <td>
+            =[
+                -   [Create.cshtml(6)]
+                -   [Create.cshtml.cs(6)]
+                -   [Delete.cshtml(6)]
+                -   [Delete.cshtml.cs(6)]
+                -   [Details.cshtml(6)]
+                -   [Details.cshtml.cs(6)]
+                -   [Edit.cshtml(6)]
+                -   [Edit.cshtml.cs(6)]
+                -   [Index.cshtml(6)]
+                -   [Index.cshtml.cs(6)]
+            ]
+        </td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>InstructorIndexData.cs</td>
+        <td>[6]=>[6.0]</td>
+        <td>=[Models\SchoolViewModels\InstructorIndexData.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Courses\+</td>
+        <td>[6]=>[6.0]</td>
+        <td>=[ProjectContosoUniversity\Pages\Courses\+]</td>
+        <td>
+            =[
+                -   [Index.cshtml]
+                -   [Index.cshtml.cs]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>Instructors\+</td>
+        <td>[6]=>[6.0]</td>
+        <td>=[ProjectContosoUniversity\Pages\Instructors\+]</td>
+        <td>
+            =[
+                -   [Index.cshtml]
+                -   [Index.cshtml.cs]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[5.0]=>[6.0]</td>
+        <td>=[ContosoUniversity\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 ---
 
