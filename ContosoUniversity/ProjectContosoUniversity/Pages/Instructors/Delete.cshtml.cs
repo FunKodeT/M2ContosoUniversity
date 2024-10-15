@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using ProjectContosoUniversity.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using ProjectContosoUniversity.Data;
-using ProjectContosoUniversity.Models;
+using System.Linq;
+using System.Threading.Tasks;
+//using System;
+//using System.Collections.Generic;
+//using ProjectContosoUniversity.Data;
 
 namespace ProjectContosoUniversity.Pages.Instructors
 {
@@ -20,7 +20,7 @@ namespace ProjectContosoUniversity.Pages.Instructors
         }
 
         [BindProperty]
-        public Instructor Instructor { get; set; } = default!;
+        public Instructor Instructor { get; set; }
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
@@ -29,16 +29,16 @@ namespace ProjectContosoUniversity.Pages.Instructors
                 return NotFound();
             }
 
-            var instructor = await _context.Instructors.FirstOrDefaultAsync(m => m.ID == id);
-
-            if (instructor == null)
+            Instructor = await _context.Instructors.FirstOrDefaultAsync(m => m.ID == id);
+            //var instructor = await _context.Instructors.FirstOrDefaultAsync(m => m.ID == id);
+            if (Instructor == null)
             {
                 return NotFound();
             }
-            else
-            {
-                Instructor = instructor;
-            }
+            //else
+            //{
+            //    Instructor = instructor;
+            //}
             return Page();
         }
 
@@ -49,14 +49,19 @@ namespace ProjectContosoUniversity.Pages.Instructors
                 return NotFound();
             }
 
-            var instructor = await _context.Instructors.FindAsync(id);
+            Instructor instructor = await _context.Instructors.Include(i => i.Courses).SingleAsync(i => i.ID == id);
+            //var instructor = await _context.Instructors.FindAsync(id);
             if (instructor != null)
             {
-                Instructor = instructor;
-                _context.Instructors.Remove(Instructor);
-                await _context.SaveChangesAsync();
+                return RedirectToPage("./Index");
             }
 
+            var departments = await _context.Departments.Where(d => d.InstructorID == id).ToListAsync();
+            departments.ForEach(d => d.InstructorID = null);
+
+            _context.Instructors.Remove(instructor);
+
+            await _context.SaveChangesAsync();
             return RedirectToPage("./Index");
         }
     }

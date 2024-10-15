@@ -568,5 +568,104 @@
 
 ---
 
+<h3 align="center">BRANCH 7</h3>
+
+<h4 align="center">VERSION 7.0</h4>
+
+- Repo Branch (7) Initialized;
+- RPwEFCiA.NC (P7) Complete;
+- Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>AssignedCourseData.cs</td>
+        <td>[7]</td>
+        <td>=[Models\SchoolViewModels\AssignedCourseData.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>DepartmentNamePageModel.cs</td>
+        <td>[7]</td>
+        <td>=[Pages\Courses\DepartmentNamePageModel.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>InstructorCoursePageModel.cs</td>
+        <td>[7]</td>
+        <td>=[Pages\Instructors\InstructorCoursePageModel.cs]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>AssignedCourseData.cs</td>
+        <td>[7]=>[7.0]</td>
+        <td>=[Models\SchoolViewModels\AssignedCourseData.cs]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Courses\+</td>
+        <td>[*]=>[7.0]</td>
+        <td>=[ProjectContosoUniversity\Pages\Course\+]</td>
+        <td>
+            =[
+                -   [Create.cshtml]
+                -   [Create.cshtml.cs]
+                -   [Delete.cshtml]
+                -   [Delete.cshtml.cs]
+                -   [DepartmentNamePageModel.cs]
+                -   [Details.cshtml]
+                -   [Details.cshtml.cs]
+                -   [Edit.cshtml]
+                -   [Edit.cshtml.cs]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>Instructors\+</td>
+        <td>[*]=>[7.0]</td>
+        <td>=[ProjectContosoUniversity\Pages\Instructors\+]</td>
+        <td>
+            =[
+                -   [Create.cshtml]
+                -   [Create.cshtml.cs]
+                -   [Delete.cshtml.cs]
+                -   [Edit.cshtml]
+                -   [Edit.cshtml.cs]
+                -   [InstructorCoursePageModel.cs]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[6.0]=>[7.0]</td>
+        <td>=[ContosoUniversity\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 ---
 
